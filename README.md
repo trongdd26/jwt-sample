@@ -2,7 +2,7 @@
 JWT (JSON Web Token) is an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. It is basically a string of random alphanumberic characters
 
 # jwt-component
-WT include 3 parts:
+WT includes 3 parts:
 - Header: describe the cryptographic operations to the JWT data
 - Payload: contains verifiable security statements, another word is "Claims"
 - Signature: Is generated using payload/header and secret key
